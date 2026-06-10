@@ -6,7 +6,7 @@
   <a href="mailto:salim90hadd@gmail.com">
     <img src="https://img.shields.io/badge/Email-salim90hadd%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/salim-haddari-52a954323/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=haddari&label=Profile%20views&color=555&style=flat-square" alt="Profile views" />
